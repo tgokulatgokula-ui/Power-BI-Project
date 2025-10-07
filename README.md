@@ -1,4 +1,4 @@
-Global Climate Events Analysis Dashboard
+**Global Climate Events Analysis Dashboard**
 
 This repository contains the Power BI project for an interactive dashboard that analyzes the impact of global climate events. The dashboard provides a comprehensive overview of key metrics such as fatalities, injuries, affected populations, and economic impact across different countries and event types.
 
@@ -33,5 +33,6 @@ Interact with the slicers and visuals to explore the data.
 
 👤 Author [Gokul]
 
-LinkedIn: [https://www.linkedin.com/in/arawindj09/]
+LinkedIn: [https://www.linkedin.com/in/gokul-t-026124389/]
+
 GitHub: [https://github.com/Arawind000]
