@@ -23,7 +23,7 @@ Country
 BI Tool: Microsoft Power BI
 🚀 How to Use
 
-Clone this repository to your local machine. git clone [https://github.com/Arawind000/Power-BI-Project]
+Clone this repository to your local machine. git clone [https://github.com/tgokulatgokula-ui/Power-BI-Project]
 
 Open the .pbix file in Power BI Desktop.
 
