@@ -35,4 +35,4 @@ Interact with the slicers and visuals to explore the data.
 
 LinkedIn: [https://www.linkedin.com/in/gokul-t-026124389/]
 
-GitHub: [https://github.com/Arawind000]
+GitHub: [https://github.com/tgokulatgokula-ui]
